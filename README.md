@@ -67,8 +67,5 @@
 ---
 
 <p align="center">
-  <i>Feito com 💙 por <strong>Rômulo França</strong></i><br>
-  <a href="https://www.linkedin.com/in/rômulo-frança-b256452b0" target="_blank">LinkedIn</a> • 
-  <a href="mailto:seuemail@exemplo.com">Email</a> • 
-  <a href="https://github.com/romullo-dev">GitHub</a>
+  <i><strong>Rômulo França</strong></i><br>
 </p>
