@@ -75,15 +75,25 @@ Sistema desenvolvido para transformar processos logísticos manuais em uma opera
 
 ---
 
-## 📊 Estatísticas
+## 🎯 O que eu desenvolvo
 
-<div align="center">
+```text
+Backend              ███████████████████░   PHP • Laravel • Python
+Automação            ██████████████████░░   Processos • Integrações
+Dados                ███████████████░░░░░   SQL • Dashboards • Análises
+Mobile               ████████████░░░░░░░░   React Native • APIs
+```
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=romullo-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+💡 **Meu foco:** transformar processos manuais em soluções digitais, automatizadas e orientadas por dados.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romullo-dev&layout=compact&langs_count=8&theme=dracula"/>
+🚚 **Logística + Tecnologia**  
+Desenvolvimento de sistemas para gestão operacional, rastreamento, rotas, indicadores e automação de processos.
 
-</div>
+⚡ **Backend & APIs**  
+Construção de aplicações escaláveis, integrações entre sistemas e organização de regras de negócio.
+
+📊 **Dados & Automação**  
+Uso de dados para gerar visibilidade operacional, reduzir tarefas manuais e apoiar decisões.
 
 ---
 
